@@ -1,6 +1,6 @@
 # Olá meu nome é João Félix 👋:
-🧑‍💻Desenvolvedor Back end
-💻Engenharia de Software 1/8
+🧑‍💻Desenvolvedor Back end<br>
+💻Engenharia de Software 1/8<br>
 🧑‍💼Estou a procura de estágio
 
 
