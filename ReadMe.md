@@ -19,7 +19,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react"/>
+    <img src="https://skillicons.dev/icons?i=react,PHP,mysql"/>
   </a>
 </p>
 
