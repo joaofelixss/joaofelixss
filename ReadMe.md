@@ -3,7 +3,7 @@
 <h3> 👨🏽‍🦱 Olá meu nome é João Félix 👋 </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Graduando em **Engenharia de Software** na UNICESUMAR.
+- 🎓 &nbsp; Graduando em **Engenharia de Software** 1/8 na UNICESUMAR.
 - 💼 &nbsp; Estou a procura de **Estágio**.
 - 🌱 &nbsp; Aprendendo mais sobre **🧑‍💻Desenvolvimento Back end**.
 
@@ -19,7 +19,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mongodb"/>
   </a>
 </p>
 
