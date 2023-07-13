@@ -15,19 +15,19 @@
   </a>
 </p>
 
-<h3> ⚡ &nbsp;Buscando conhecimentos em:</h3>
+<h3> 🧑‍💻&nbsp;Tecnologias que já utilizei</h3>
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,postman,bootstrap"/>
+  </a>
+</p>
+
+<h3> ⚡&nbsp;Buscando conhecimentos em:</h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mongodb"/>
-  </a>
-</p>
-
-<h3> 🧑‍💻 &nbsp;Já utilizei várias tecnologias como:</h3>
-
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,bootstrap"/>
   </a>
 </p>
 
