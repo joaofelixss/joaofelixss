@@ -2,16 +2,17 @@
 
 <h3> 👨🏽‍🦱 Olá meu nome é João Félix 👋 </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Graduando em **Engenharia de Software** 1/8 na UNICESUMAR.
+- 🧑🏽‍💻 &nbsp; Estou a 2 meses estudando programação!! início em 29/04/2023
+- 💻 Desenvolvedor Back end PHP | **🌱 Estudando PHP ( Avançado ) com REST API.**
 - 💼 &nbsp; Estou a procura de **Estágio**.
-- 🌱 &nbsp; Aprendendo mais sobre **🧑‍💻Desenvolvimento Back end**.
+- 🎓 &nbsp; Graduando em **Engenharia de Software** 1/8 na UNICESUMAR.
+- 🚀 Pretendo ser um **Desenvolvedor Full-stack utilizando Laravel e Vue.js.**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,php,mysql,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,git,html,css,figma,vscode" />
   </a>
 </p>
 
@@ -19,7 +20,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,postman,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=js,react,vite,wordpress"/>
   </a>
 </p>
 
@@ -27,7 +28,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=php,postman,laravel"/>
   </a>
 </p>
 
