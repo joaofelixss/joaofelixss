@@ -12,7 +12,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,git,html,css,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,git,html,css,figma,vscode" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=js,react,vite,postman,wordpress"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,postman,laravel"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel"/>
   </a>
 </p>
 
