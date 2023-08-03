@@ -20,7 +20,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,postman,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=js,react,vite,postman,wordpress,postgres,tailwind"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,docker"/>
   </a>
 </p>
 
