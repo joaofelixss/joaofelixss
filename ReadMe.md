@@ -12,7 +12,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,git,html,css,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,docker,mysql,bootstrap,git,html,css,figma,vscode" />
   </a>
 </p>
 
