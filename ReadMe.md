@@ -3,10 +3,9 @@
 <h3> 👨🏽‍🦱 Olá meu nome é João Félix 👋 </h3>
 
 - 🧑🏽‍💻 &nbsp; Estou a 3 meses estudando programação!! início em 29/04/2023
-- 💻 Desenvolvedor Back end PHP | **🌱 Estudando Laravel.**
+- 💻 Desenvolvedor Back end PHP | **🌱 Estudando Laravel e Docker**
 - 💼 &nbsp; Estou a procura de **Estágio**.
 - 🎓 &nbsp; Graduando em **Engenharia de Software** 1/8 na UNICESUMAR.
-- 🚀 Pretendo ser um **Desenvolvedor Full-stack utilizando Laravel e Vue.js.**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -16,19 +15,19 @@
   </a>
 </p>
 
-<h3> 🧑‍💻&nbsp;Tecnologias que já utilizei</h3>
-
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,postman,wordpress,postgres,tailwind"/>
-  </a>
-</p>
-
 <h3> ⚡&nbsp;Buscando conhecimentos em:</h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,docker"/>
+    <img src="https://skillicons.dev/icons?i=laravel,docker"/>
+  </a>
+</p>
+
+<h3> 🧑‍💻&nbsp;Tecnologias que já utilizei em projetos</h3>
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,vite,postgres,tailwind"/>
   </a>
 </p>
 
