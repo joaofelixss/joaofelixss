@@ -23,11 +23,11 @@
   </a>
 </p>
 
-<h3> 🧑‍💻&nbsp;Tecnologias que já utilizei em projetos</h3>
+<h3> 🧑‍💻&nbsp;Tecnologias que já utilizei</h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,vite,postgres,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=js,react,vue,vite,postgres,tailwind,alpinejs,aws,githubactions"/>
   </a>
 </p>
 
