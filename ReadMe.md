@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3> ⚡&nbsp;Buscando conhecimentos em:</h3>
+<h3> ⚡&nbsp;Buscando conhecimentos</h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vite,postgres,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=js,react,vue,vite,postgres,tailwind"/>
   </a>
 </p>
 
