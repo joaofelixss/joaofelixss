@@ -2,10 +2,10 @@
 
 <h3> 👨🏽‍🦱 Olá meu nome é João Félix 👋 </h3>
 
-- 🧑🏽‍💻 &nbsp; Estou a 3 meses estudando programação!! início em 29/04/2023
+- 🧑🏽‍💻 &nbsp; Estou a 6 meses estudando programação!! início em 29/04/2023
 - 💻 Desenvolvedor Back end PHP | **🌱 Estudando Laravel e Docker**
 - 💼 &nbsp; Estou a procura de **Estágio**.
-- 🎓 &nbsp; Graduando em **Engenharia de Software** 1/8 na UNICESUMAR.
+- 🎓 &nbsp; Graduando em **Análise e Desenv. de Sistemas** 2/5 na UNICESUMAR.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
