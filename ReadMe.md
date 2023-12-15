@@ -2,8 +2,8 @@
 
 <h3> 👨🏽‍🦱 Olá meu nome é João Félix 👋 </h3>
 
-- 🧑🏽‍💻 &nbsp; Estou a 6 meses estudando programação!! início em 29/04/2023
-- 💻 Desenvolvedor Back end PHP | **🌱 Estudando Laravel e Docker**
+- 🧑🏽‍💻 &nbsp; Estou a 9 meses estudando programação!! início em 29/04/2023
+- 💻 Desenvolvedor Back end PHP | **🌱 Estudando Laravel, Vue.js e Docker**
 - 💼 &nbsp; Estou a procura de **Estágio**.
 - 🎓 &nbsp; Graduando em **Análise e Desenv. de Sistemas** 2/5 na UNICESUMAR.
 
@@ -11,7 +11,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,docker,mysql,bootstrap,git,html,css,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,vue,docker,mysql,bootstrap,git,html,css,figma,vscode" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,docker"/>
+    <img src="https://skillicons.dev/icons?i=laravel,vue,docker"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,vue,vite,postgres,tailwind,alpinejs,aws,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=js,react,vite,postgres,mongo,tailwind,alpinejs,aws,githubactions"/>
   </a>
 </p>
 
