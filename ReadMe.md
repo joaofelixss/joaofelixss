@@ -43,7 +43,7 @@
 </a>
 
 [website]: https://joaofelixss.github.io/
-[instagram]: https://www.instagram.com/joaofelix.dev/
+[instagram]: https://www.instagram.com/joaofelix_xs/
 [linkedin]: https://www.linkedin.com/in/joaofelixss/
 <br>
 
