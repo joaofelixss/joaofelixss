@@ -2,8 +2,7 @@
 
 <h3> 👨🏽‍🦱 Olá meu nome é João Félix 👋 </h3>
 
-- 🧑🏽‍💻 &nbsp; Estou a 9 meses estudando programação!! início em 29/04/2023
-- 💻 Desenvolvedor Full-stack Laravel | **🌱 Estudando Laravel, Vue.js e Docker**
+- 💻 Desenvolvedor **Full-stack Laravel | Vue.js**
 - 💼 &nbsp; Estou a procura de **Estágio**.
 - 🎓 &nbsp; Graduando em **Análise e Desenv. de Sistemas** 2/5 na UNICESUMAR.
 
@@ -11,15 +10,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,vue,docker,mysql,git,html,css,figma,vscode" />
-  </a>
-</p>
-
-<h3> ⚡&nbsp;Buscando conhecimentos</h3>
-
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,docker"/>
+    <img src="https://skillicons.dev/icons?i=vue,laravel,php,mysql,git,html,css,figma" />
   </a>
 </p>
 
@@ -27,7 +18,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,scss,tailwind,bootstrap,postgres,alpinejs,aws"/>
+    <img src="https://skillicons.dev/icons?i=js,react,docker,scss,tailwind,bootstrap,postgres,alpinejs,aws"/>
   </a>
 </p>
 
