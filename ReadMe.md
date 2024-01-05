@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h3> 🧑‍💻&nbsp;Tecnologias que já utilizei</h3>
+<h3> 🧑‍💻&nbsp;Tecnologias já utilizadas</h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
