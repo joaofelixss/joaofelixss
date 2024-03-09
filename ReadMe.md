@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor **Full-stack Laravel | Vue.js**
 - 💼 &nbsp; Estou a procura de **Estágio**.
-- 🎓 &nbsp; Graduando em **Análise e Desenv. de Sistemas** 2/5 na UNICESUMAR.
+- 🎓 &nbsp; Graduando em **Análise e Desenv. de Sistemas** 3/5 na UNICESUMAR.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -18,7 +18,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,react,js,mongo,postgres,scss,tailwind,bootstrap,alpinejs,aws"/>
+    <img src="https://skillicons.dev/icons?i=java,docker,react,js,tailwind,bootstrap"/>
   </a>
 </p>
 
