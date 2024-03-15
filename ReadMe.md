@@ -10,15 +10,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,laravel,php,mysql,git,html,css,figma" />
-  </a>
-</p>
-
-<h3> 🧑‍💻&nbsp;Tecnologias já utilizadas</h3>
-
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,react,js,tailwind,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=java,vue,js,laravel,php,mysql,git,figma" />
   </a>
 </p>
 
