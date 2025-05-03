@@ -1,21 +1,34 @@
-# Sobre o projeto
+### 👨🏽‍💻 João Félix
 
-O Portifólio é uma aplicação Front-End web construída por min com conhecimentos adiquiridos ao longo desses últimos meses estudando programação.
+**`Desenvolvedor FullStack`**
 
-A aplicação consiste em uma Landing page biasica, onde as pessoas possam navegar o site de forma simples e prática, o site também conta com o formato mobile.
+Me chamo João Félix, tenho 21 anos e sou natural do Mato grosso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICESUMAR. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu Linkedin "[João Félix](https://www.linkedin.com/in/joaofelixss/)", onde mostro meus projetos web, e também através do Instagram, com o perfil chamado "[João Félix](https://www.instagram.com/joaofelix1.2/)".
 
-## Layout mobile
-<div>
-  <img src="./img/foto1.1.png">
-  <img src="./img/foto2.1.png">
-  <img src="./img/foto3.1.png">
-</di>      
+---
 
-# Tecnologias utilizadas
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,figma)](https://skillicons.dev)
+### 🤖 Linguagens e Tecnologias
 
-# Autor
+<img src="https://skillicons.dev/icons?i=react,ts,postman,laravel,js,php,nodejs,express,mysql,mongo,prisma,jest,vue,docker,tailwindd,css,html,git,figma&light" />
 
-João Félix Santana de Sousa
+<br/>
+<br/>
 
-https://www.linkedin.com/in/joaofelixss
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
