@@ -8,7 +8,7 @@ Me chamo João Félix, tenho 21 anos e sou natural do Mato grosso. Atualmente, e
 
 ### 🤖 Linguagens e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=react,ts,postman,laravel,js,php,nodejs,express,mysql,mongo,prisma,jest,vue,docker,tailwindd,css,html,git,figma&light" />
+<img src="https://skillicons.dev/icons?i=nextjs,nest,react,ts,js,tailwind,postman,postgres,prisma,express,jest,cypress,figma,laravel,php&light" />
 
 <br/>
 <br/>
